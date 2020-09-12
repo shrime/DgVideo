@@ -1,2 +1,2 @@
-# Dg_demo
+# DgVideo
 Digilent FPGA Demo Projects
